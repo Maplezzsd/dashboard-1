@@ -27,13 +27,13 @@ import * as firebase from 'firebase';
 
 
   // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyDUeEtZZKzFu1wS0n2KvHc7t3Ze7G12gNY",
-    authDomain: "bt3103-a703a.firebaseapp.com",
-    databaseURL: "https://bt3103-a703a.firebaseio.com",
-    projectId: "bt3103-a703a",
-    storageBucket: "bt3103-a703a.appspot.com",
-    messagingSenderId: "482297315123"
+ var config = {
+    apiKey: "AIzaSyCf0oGcgHSS_BT--B3OLy5HIpxzWtrZ9kQ",
+    authDomain: "dashboard-f8824.firebaseapp.com",
+    databaseURL: "https://dashboard-f8824.firebaseio.com",
+    projectId: "dashboard-f8824",
+    storageBucket: "",
+    messagingSenderId: "586945662831"
   };
   firebase.initializeApp(config);
 
